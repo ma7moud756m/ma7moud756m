@@ -86,14 +86,14 @@ mahmoud = {
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ma7moud756m&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
+-->
 ---
 
 ## 📌 Featured Projects
