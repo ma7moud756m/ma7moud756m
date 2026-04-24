@@ -11,8 +11,8 @@
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=4D96FF&style=for-the-badge&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=ma7moud756m&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/ma7moud756m?color=4D96FF&style=for-the-badge&label=FOLLOWERS)
 
 </div>
 
@@ -40,7 +40,10 @@ mahmoud = {
 ### 🐍 Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### 📊 Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -48,10 +51,10 @@ mahmoud = {
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-<!-- 
+
 ### 🤖 AI & Machine Learning
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -70,14 +73,14 @@ mahmoud = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ma7moud756m&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ma7moud756m&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ma7moud756m&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -87,7 +90,7 @@ mahmoud = {
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ma7moud756m&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -97,8 +100,8 @@ mahmoud = {
 
 <div align="center">
 
-[![World Happiness Report](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=world-happiness-report&theme=radical&border_radius=10)](https://github.com/YOUR_USERNAME/world-happiness-report)
-[![Sales Database](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=sales-database&theme=radical&border_radius=10)](https://github.com/YOUR_USERNAME/sales-database)
+[![World Happiness Report](https://github-readme-stats.vercel.app/api/pin/?username=ma7moud756m&repo=world-happiness-report&theme=radical&border_radius=10)](https://github.com/ma7moud756m/world-happiness-report)
+[![Sales Database](https://github-readme-stats.vercel.app/api/pin/?username=ma7moud756m&repo=sales-database&theme=radical&border_radius=10)](https://github.com/ma7moud756m/sales-database)
 
 </div>
 
@@ -111,7 +114,7 @@ mahmoud = {
 
 <div align="center">
 
-[![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ma7moud756m&theme=react-dark&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
