@@ -1,18 +1,142 @@
-# 💫 About Me:
-# 👋 Hi, I'm [Mahmoud Shaban]<br><br>🎓 Computer Science Student (AI Track)<br>📊 Aspiring Data Analyst → Data Scientist<br>💡 Passionate about turning data into insights<br><br>---<br><br>## 🚀 About Me<br><br>I'm currently a second-year Computer Science student specializing in Artificial Intelligence.<br>I enjoy working with data, exploring patterns, and building solutions that make sense of complex information.<br><br>I'm actively developing my skills in data analysis and aiming to become a Data Scientist.<br><br>---<br><br>## 🛠️ Skills<br><br>* **Programming:** Python<br>* **Data Analysis:** Pandas, NumPy<br>* **Data Visualization:** Matplotlib<br>* **Databases:** SQL<br>* **Other:** Problem Solving, Critical Thinking<br><br>---<br><br>## 📂 Projects<br><br>Here are some of the projects I've worked on:<br><br>* 📊 Data Analysis Projects (EDA, Cleaning, Visualization)<br>* 🤖 Basic AI / Machine Learning Models<br>* 🧮 Python Automation Scripts<br><br>👉 *Check my repositories to see more!*<br><br>---<br><br>## 📈 Currently Learning<br><br>* Advanced Data Analysis Techniques<br>* Machine Learning<br>* Real-world Data Projects<br><br>---<br><br>## 📫 Contact Me<br><br>* 💼 LinkedIn: [Your LinkedIn Link]<br>* 📧 Email: [Your Email]<br><br>---<br><br>## ⚡ Fun Fact<br><br>I enjoy discovering hidden patterns in data — it's like solving puzzles with numbers!<br>
+<div align="center">
 
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFD93D,75:6BCB77,100:4D96FF&height=200&section=header&text=Mahmoud&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Student%20%7C%20Problem%20Solver&descAlignY=60&descSize=20" />
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mahmoud_2_2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ma7moud._.07) 
+<!-- Typing Animation -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=CS+Student+%40+AI+Specialization+%F0%9F%A7%A0;Aspiring+Data+Analyst+%F0%9F%93%8A;Future+Data+Scientist+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+</a>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ma7moud756m&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ma7moud756m&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ma7moud756m&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
+
+<!-- Profile Views + Followers Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?color=4D96FF&style=for-the-badge&label=FOLLOWERS)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ma7moud756m&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+```python
+mahmoud = {
+    "🎓 education":   "CS Student — AI Specialization (Year 2)",
+    "🎯 goal":        "Data Analyst → Data Scientist",
+    "📍 location":    "Egypt 🇪🇬",
+    "💡 passion":     "Turning raw data into meaningful insights",
+    "🔭 learning":    ["Machine Learning", "Advanced SQL", "Deep Learning"],
+    "⚡ fun_fact":    "I debug faster with coffee ☕"
+}
+```
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<div align="center">
+
+### 🐍 Languages
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+### 📊 Data & Analytics
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+<!-- 
+### 🤖 AI & Machine Learning
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) -->
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=7&theme=radical&border_radius=10"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&border_radius=10&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+[![World Happiness Report](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=world-happiness-report&theme=radical&border_radius=10)](https://github.com/YOUR_USERNAME/world-happiness-report)
+[![Sales Database](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=sales-database&theme=radical&border_radius=10)](https://github.com/YOUR_USERNAME/sales-database)
+
+</div>
+
+> 💡 **World Happiness Report Analysis** — Multi-year data analysis using Pandas + Power BI dashboard with year-over-year comparisons  
+> 🗄️ **Sales Database System** — SQL Server ERD design, schema creation, GROUP BY queries & sample data scripts
+
+---
+
+## 📊 Activity Graph
+
+<div align="center">
+
+[![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&border_radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-shaban-43b2b73a1?)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahmoud-hub.vercel.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ma7moud._.07)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mahmoud.shaban.239958)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201272744398)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmoudrre1234@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,25:6BCB77,50:FFD93D,75:FF8E53,100:FF6B6B&height=100&section=footer" />
+
+**"Data is the new oil — and I'm here to refine it. 🛢️⚡"**
+
+</div>
