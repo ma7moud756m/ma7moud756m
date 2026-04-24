@@ -1,17 +1,17 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,25:FF8E53,50:FFD93D,75:6BCB77,100:4D96FF&height=200&section=header&text=Mahmoud&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Student%20%7C%20Problem%20Solver&descAlignY=60&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d3b2e,25:1a5c45,50:2d8c6b,75:4db891,100:a8e6cf&height=200&section=header&text=Mahmoud&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=Data%20Analyst%20%7C%20AI%20Student%20%7C%20Problem%20Solver&descAlignY=60&descSize=20" />
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FFD93D&center=true&vCenter=true&width=600&lines=CS+Student+%40+AI+Specialization+%F0%9F%A7%A0;Aspiring+Data+Analyst+%F0%9F%93%8A;Future+Data+Scientist+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2d8c6b&center=true&vCenter=true&width=600&lines=CS+Student+%40+AI+Specialization+%F0%9F%A7%A0;Aspiring+Data+Analyst+%F0%9F%93%8A;Future+Data+Scientist+%F0%9F%9A%80;Turning+Data+into+Decisions+%F0%9F%92%A1;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views + Followers Badges -->
-![Profile Views](https://komarev.com/ghpvc/?username=ma7moud756m&color=FF6B6B&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ma7moud756m&color=2d8c6b&style=for-the-badge&label=PROFILE+VIEWS)
 ![GitHub followers](https://img.shields.io/github/followers/ma7moud756m?color=4D96FF&style=for-the-badge&label=FOLLOWERS)
 
 </div>
@@ -68,7 +68,7 @@ mahmoud = {
 </div>
 
 ---
-<!--
+<!-- 
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -86,7 +86,7 @@ mahmoud = {
 
 ---
 
-<!--## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -94,9 +94,9 @@ mahmoud = {
 
 </div>
 
---- -->
+---
 
-<!--## 📌 Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
@@ -106,8 +106,8 @@ mahmoud = {
 </div>
 
 > 💡 **World Happiness Report Analysis** — Multi-year data analysis using Pandas + Power BI dashboard with year-over-year comparisons  
-> 🗄️ **Sales Database System** — SQL Server ERD design, schema creation, GROUP BY queries & sample data scripts
--->
+> 🗄️ **Sales Database System** — SQL Server ERD design, schema creation, GROUP BY queries & sample data scripts -->
+
 ---
 
 ## 📊 Activity Graph
@@ -138,7 +138,7 @@ mahmoud = {
 <div align="center">
 
 <!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4D96FF,25:6BCB77,50:FFD93D,75:FF8E53,100:FF6B6B&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a8e6cf,25:4db891,50:2d8c6b,75:1a5c45,100:0d3b2e&height=100&section=footer" />
 
 **"Data is the new oil — and I'm here to refine it. 🛢️⚡"**
 
