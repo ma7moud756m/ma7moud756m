@@ -93,8 +93,8 @@ mahmoud = {
 [![trophy](https://github-profile-trophy.vercel.app/?username=ma7moud756m&theme=radical&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
--->
----
+
+--- -->
 
 <!--## 📌 Featured Projects
 
@@ -103,11 +103,11 @@ mahmoud = {
 [![World Happiness Report](https://github-readme-stats.vercel.app/api/pin/?username=ma7moud756m&repo=world-happiness-report&theme=radical&border_radius=10)](https://github.com/ma7moud756m/world-happiness-report)
 [![Sales Database](https://github-readme-stats.vercel.app/api/pin/?username=ma7moud756m&repo=sales-database&theme=radical&border_radius=10)](https://github.com/ma7moud756m/sales-database)
 
-</div>-->
+</div>
 
 > 💡 **World Happiness Report Analysis** — Multi-year data analysis using Pandas + Power BI dashboard with year-over-year comparisons  
 > 🗄️ **Sales Database System** — SQL Server ERD design, schema creation, GROUP BY queries & sample data scripts
-
+-->
 ---
 
 ## 📊 Activity Graph
